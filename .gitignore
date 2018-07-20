@@ -1,0 +1,8 @@
+##ignore this file##
+/conf/
+/logs/
+/.idea/
+/report/result.html
+/TestCase/geckodriver.log
+/report/*.html
+/yaml/browser.yaml
